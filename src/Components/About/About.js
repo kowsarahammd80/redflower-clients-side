@@ -8,9 +8,9 @@ const About = () => {
     <div className="mt-5 mb-5">
 
       <div className="grid grid-cols-1 lg:grid-cols-2 md:grid-cols-2 w-full font-serif">
-        <div className="flex justify-center mt-0 mb-5 lg:mt-16 lg:mb-0">
+        <div className="flex justify-center items-center mt-0 mb-5 ">
 
-          <div>
+          <div >
 
             <h1 className="text-2xl ml-3">
               <span className="text-red-500 text-4xl">Red Flower </span>{" "}
