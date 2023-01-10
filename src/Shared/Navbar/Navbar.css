@@ -1,0 +1,13 @@
+.navButton{
+  background-color: crimson;
+  padding: 8px 15px;
+  border-radius: 50px;
+  color: white;
+  font-weight: 700;
+}
+
+.navButton:hover{
+  background-color: gold;
+  color: black;
+  font-weight: 700;
+}
