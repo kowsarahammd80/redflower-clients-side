@@ -14,7 +14,7 @@ const Navbar = () => {
       </li>
 
       <li className="font-bold">
-        <Link to="/">Our Service</Link>
+        <Link to="/service">Our Service</Link>
       </li>
 
     </>

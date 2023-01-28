@@ -1,5 +1,6 @@
 import { createBrowserRouter } from "react-router-dom";
 import FullAboutSection from "../../Components/FullAboutSection/FullAboutSection";
+import ServiceSection from "../../Components/ServiceSection/ServiceSection";
 import Main from "../../Layout/Main/Main";
 import HomePages from "../../Pages/HomePages/HomePages";
 
@@ -16,7 +17,13 @@ import HomePages from "../../Pages/HomePages/HomePages";
       {
         path: '/about',
         element:<FullAboutSection></FullAboutSection>
+      },
+
+      {
+        path: '/service',
+        element: <ServiceSection/>
       }
+      
     ]
    }
 ]);
