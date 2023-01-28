@@ -58,11 +58,12 @@ const FullAboutSection = () => {
       <div className="flex justify-center">
         <h1 className="aboutUs font-semibold text-2xl">Our Main Focus</h1>
       </div>
-      <div className="grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 mt-5 mb-5 gap-4">
+      <div className="mx-2 lg:mx-0 grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 mt-5 mb-5 gap-4">
         {abouts.map((about) => (
           <FullAboutMap key={about.id} aboutData={about}></FullAboutMap>
         ))}
       </div>
+      
     </div>
   );
 };

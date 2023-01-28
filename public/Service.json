@@ -2,57 +2,68 @@
 
   {
     "id": 0,
-    "serviceName": "TOTAL ELECTRIFICATION SYSTEM WORKS"
+    "serviceName": "TOTAL ELECTRIFICATION SYSTEM WORKS",
+    "serviceImg": "https://media.istockphoto.com/id/1150199550/photo/electrician-engineer-work-tester-measuring-voltage-and-current-of-power-electric-line-in.jpg?s=612x612&w=0&k=20&c=5CE_v-zKa9tHncUdONL1jZ_HfCqNakyID8uGYXYU19A="
   },
 
   {
     "id": 1,
-    "serviceName": "LPG RETICULATION SYSTEM"
+    "serviceName": "LPG RETICULATION SYSTEM",
+    "serviceImg": "https://www.banglamark.com/uploads/1655630327.jpeg"
   },
 
   {
     "id": 2,
-    "serviceName": "TOTAL SAFETY SOLUTION, kIT & CUSTOMERS"
+    "serviceName": "TOTAL SAFETY SOLUTION, kIT & CUSTOMERS",
+    "serviceImg": "https://www.totalsafety.com/wp-content/themes/totalsafety/images/comm-solutions.jpg?v2"
   },
 
   {
     "id": 3,
-    "serviceName": "LIGHTING PROTECTION SYSTEM"
+    "serviceName": "LIGHTING PROTECTION SYSTEM",
+    "serviceImg": "https://axis-india.com/wp-content/uploads/2020/10/Untitled-design-15.png"
   },
 
   {
     "id": 4,
-    "serviceName": "FIRE DETECTION SYSTEM"
+    "serviceName": "FIRE DETECTION SYSTEM",
+    "serviceImg": "https://i.pinimg.com/originals/24/42/83/2442833ce1c6e865898cf9d643ad0571.png"
   },
 
   {
     "id": 5,
-    "serviceName": "SECURITY & SURVEILLANCE SYSTEM"
+    "serviceName": "SECURITY & SURVEILLANCE SYSTEM",
+    "serviceImg": "https://kintronics.com/wp-content/uploads/2019/08/IP-camera-systems-Gear5.jpg"
   },
 
   {
     "id": 6,
-    "serviceName": "HOME & AUTOMATION"
+    "serviceName": "HOME & AUTOMATION",
+    "serviceImg": "https://img.freepik.com/free-vector/smart-home-illustration_1284-18927.jpg?w=2000"
   },
 
   {
     "id": 7,
-    "serviceName": "ELECTRONICS"
+    "serviceName": "ELECTRONICS",
+    "serviceImg": "http://www.polytechnichub.com/wp-content/uploads/2017/04/Electronic.jpg"
   },
 
   {
     "id": 8,
-    "serviceName": "GADGETS & KITS"
+    "serviceName": "GADGETS & KITS",
+    "serviceImg": "https://m.media-amazon.com/images/I/916qparXFeL.jpg"
   },
 
   {
     "id": 9,
-    "serviceName": "POWER & ENERGY SOLUTION"
+    "serviceName": "POWER & ENERGY SOLUTION",
+    "serviceImg": "https://www.energypartnership.cn/fileadmin/_processed_/5/8/csm_shutterstock_1007325514_small_0b86ad5ff6.jpg"
   },
   
   {
     "id": 10,
-    "serviceName": "HI-TECH INTERIOR SOLUTION"
+    "serviceName": "HI-TECH INTERIOR SOLUTION",
+    "serviceImg": "https://i.morioh.com/2021/12/13/4480ad3b.webp"
   }
 
   

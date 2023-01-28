@@ -1,0 +1,97 @@
+[
+  {
+    "id" : 0,
+    "institute" : "ICT Ministry",
+    "service" : " Fire Automation Consultancy with ZTE of National Data Center (NDC)"
+  },
+  {
+    "id" : 1,
+    "institute" : "Bangladesh Security & Exchange Commission",
+    "service" : " Fire Automation"
+  },
+  {
+    "id" : 2,
+    "institute" : "Bangabondhu International Conference Centre (BICC)",
+    "service" : "The Auto Sequential Water Fountain with Multi Colored Lighting."
+  },
+  {
+    "id" : 3,
+    "institute" : "ORS Quarter at B.G.B Pilkhana",
+    "service" : " Fire & Security Automation"
+  },
+  {
+    "id" : 4,
+    "institute" : "Howard Jhonson Hotel",
+    "service" : " Building Automation System"
+  },
+  {
+    "id" : 5,
+    "institute" : "Winter Dress Ltd.",
+    "service" : " Sewing Machine Control System, Substation, Generator"
+  },
+  {
+    "id" : 6,
+    "institute" : "Liz Fashions & LIDA Textiles ",
+    "service" : " Aspirating Smoke Detection (VESDA System)"
+  },
+  {
+    "id" : 7,
+    "institute" : "Running Fashions Ltd.",
+    "service" : "Fire Automation"
+  },
+  {
+    "id" : 8,
+    "institute" : "Alauddin Garments Ltd.",
+    "service" : " Fire Automation with Troubleshooting."
+  },
+  {
+    "id" : 9,
+    "institute" : "Ehsan Garments",
+    "service" : " Fire Automation"
+  },
+  {
+    "id" : 10,
+    "institute" : "NALIN TEX LTD",
+    "service" : " Fire Automation"
+  },
+  {
+    "id" : 11,
+    "institute" : "Patriot Eco Apparels Ltd. ",
+    "service" : " Lightning Protection System (LPS)."
+  },
+  {
+    "id" : 12,
+    "institute" : "ESBL",
+    "service" : "Lightning Protection System (LPS)."
+  },
+  {
+    "id" : 13,
+    "institute" : "Bengal Hurricane Ltd",
+    "service" : "Lightning Protection System (LPS)."
+  },
+  {
+    "id" : 14,
+    "institute" : "Arabi Fashion Ltd.",
+    "service" : " Lightning Protection System (LPS)."
+  },
+  {
+    "id" : 15,
+    "institute" : "Beximco Industrial Park",
+    "service" : "Fire Automation."
+  },
+  {
+    "id" : 16,
+    "institute" : "Chittagong Knitwears Ltd.",
+    "service" : "Fire Automation."
+  },
+  {
+    "id" : 17,
+    "institute" : "Ananta Group",
+    "service" : " Fire Automation."
+  },
+  {
+    "id" : 18,
+    "institute" : "Essestial Drugs Limited",
+    "service" : " Fire Automation Consultancy."
+  }
+]

@@ -1,6 +1,5 @@
 import React, { useEffect } from "react";
 import { useState } from "react";
-import { useSearchParams } from "react-router-dom";
 import ServiceMap from "../ServiceMap/ServiceMap";
 
 const ServiceSection = ({len}) => {
@@ -21,7 +20,8 @@ const ServiceSection = ({len}) => {
 
   return (
     <div>
-      <div className="flex justify-center">
+      
+      <div className="flex justify-center mt-5">
         <h1 
         className=" 
         bg-red-100 
@@ -39,7 +39,7 @@ const ServiceSection = ({len}) => {
 
       {/* service */}
 
-      <div className="mt-5 mb-5 grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 gap-2">
+      <div className="mx-2 lg:mx-0 mt-5 mb-5 grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 gap-4">
 
           {
             services.slice(0, length).map(service => <ServiceMap

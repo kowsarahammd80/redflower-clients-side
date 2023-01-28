@@ -7,7 +7,7 @@ const About = () => {
   return (
     <div className="mt-5 mb-5">
 
-      <div className="grid grid-cols-1 lg:grid-cols-2 md:grid-cols-2 w-full font-serif">
+      <div className=" grid grid-cols-1 lg:grid-cols-2 md:grid-cols-2 w-full font-serif">
         <div className="flex justify-center items-center mt-0 mb-5">
 
           <div >
