@@ -12,7 +12,7 @@ const ServiceMap = ({serviceData}) => {
         <div className="card-body">
           {/* <h2 className="text-red-400 text-center font-bold">{serviceName}</h2> */}
           <div className="flex justify-center">
-          <h1 className=" bg-red-100 text-center aboutUs font-semibold">{serviceName}</h1>
+          <h1 className=" bg-red-100 text-center aboutUs font-bold">{serviceName}</h1>
         </div>
          
           <div className="card-actions justify-end">

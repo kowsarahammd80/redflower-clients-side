@@ -3,7 +3,7 @@ import './AreYouSafe.css'
 
 const AreYouSafe = () => {
   return (
-    <div className='bg-red-600'>
+    <div className='bg-red-600 my-6'>
        
        <div 
        className='grid 
@@ -13,7 +13,7 @@ const AreYouSafe = () => {
            
            {/* text */}
            <div className='flex justify-center items-center'>
-            
+
              <h1 className='bg-yellow-200 
              px-10 py-5
              my-5 lg:my-0 
