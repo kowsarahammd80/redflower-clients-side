@@ -5,16 +5,20 @@ import "./Navbar.css";
 const Navbar = () => {
   const navItems = (
     <>
-      <li className="font-bold">
+      <li className="font-bold text-red-700">
         <Link to="/">Home</Link>
       </li>
 
-      <li className="font-bold">
+      <li className="font-bold text-red-700">
         <Link to="/about">About US</Link>
       </li>
 
-      <li className="font-bold">
+      <li className="font-bold text-red-700">
         <Link to="/service">Our Service</Link>
+      </li>
+
+      <li className="font-bold text-red-700">
+        <Link to="/client">Our Valuable Clients</Link>
       </li>
 
     </>

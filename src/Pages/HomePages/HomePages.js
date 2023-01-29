@@ -1,5 +1,6 @@
 import React from 'react';
 import AreYouSafe from '../../Components/AreYouSafe/AreYouSafe';
+import GetInTuch from '../../Components/GetInTuch/GetInTuch';
 import Home from '../../Components/Home/Home';
 import AboutPages from '../AboutPages/AboutPages';
 import ClientsPage from '../ClientsPage/ClientsPage';
@@ -15,6 +16,7 @@ const HomePages = () => {
        <ServicePages></ServicePages>
        <AreYouSafe></AreYouSafe>
        <ClientsPage></ClientsPage>
+       <GetInTuch></GetInTuch>
     </div>
 
   );

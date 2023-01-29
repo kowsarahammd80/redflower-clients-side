@@ -1,4 +1,5 @@
 import { createBrowserRouter } from "react-router-dom";
+import Clients from "../../Components/Clients/Clients";
 import FullAboutSection from "../../Components/FullAboutSection/FullAboutSection";
 import ServiceSection from "../../Components/ServiceSection/ServiceSection";
 import Main from "../../Layout/Main/Main";
@@ -22,6 +23,11 @@ import HomePages from "../../Pages/HomePages/HomePages";
       {
         path: '/service',
         element: <ServiceSection/>
+      },
+
+      {
+        path: '/client',
+        element: <Clients></Clients>
       }
       
     ]
