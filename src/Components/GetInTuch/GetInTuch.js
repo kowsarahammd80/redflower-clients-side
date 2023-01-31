@@ -58,12 +58,12 @@ const GetInTuch = () => {
 
            <div className="mt-5 lg:mt-0 p-2">
 
-              <h1 className="text-2xl text-red-700 font-semibold bg-yellow-200 text-center py-3 px-2 rounded-lg">Red Flower Building Needs  Power By <br />Safety Automation Alaways Say </h1>
-              <h1 className="mt-2 text-2xl text-red-700 font-semibold bg-yellow-200 text-center p-2 rounded-lg">Get In Touch Us & Stay Safe</h1>
+              <h1 className="text-2xl text-red-700 font-semibold bg-yellow-200 text-center py-3 px-2 rounded-lg">Red Flower Building Needs  Power By <br />Safety Automation </h1>
+              <h1 className="mt-2 text-2xl text-red-700 font-semibold bg-yellow-200 text-center p-2 rounded-lg"> Safe insure your life & your area between </h1>
 
-              <h1 className="text-xl mt-2 text-red-700 font-semibold bg-yellow-200 text-center p-2 rounded-lg" ><i class="fa-solid fa-envelope"></i> autosafety360@gmail</h1>
+              <h1 className="text-xl mt-2 text-red-700 font-semibold bg-yellow-200 text-center p-2 rounded-lg" ><i class="fa-solid fa-envelope"></i> autosafety360@gmail.com</h1>
 
-              <h1 className="text-xl mt-2 text-red-700 font-semibold bg-yellow-200 text-center p-2 rounded-lg" ><i class="fa-solid fa-phone"></i> O1711112644</h1>
+              <h1 className="text-xl mt-2 text-red-700 font-semibold bg-yellow-200 text-center p-2 rounded-lg" ><i class="fa-solid fa-phone"></i> O1711112644, 01760075031</h1>
 
            </div>
 
